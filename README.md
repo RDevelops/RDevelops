@@ -2,11 +2,13 @@
 <h3 align="center">Im a Python software engineer, Living in the UK</h3>
 
 
-- I’m currently working on some **big** projects
+- I'm currently working on a few projects.
+
+- I'm open to API/Discord/Telegram commissions, Message me on Discord for details!
 
 - All of my projects are available here, or in my organisations.
 
-<h3 align="left">Connect with me: @kamzyw on discord</h3>
+<h3 align="left">Connect with me: @kamzyw. on Discord</h3>
 <p align="left">
 </p>
 
